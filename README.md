@@ -116,7 +116,7 @@ Showcase real code and Git discipline
 ## 📜 License
 This project is licensed under the MIT License.
 
-<p align="center"> Made with ❤️ by Devdhar Manpuria </p> ```
+<p align="center"> Made with ❤️ by Devdhar Manpuria </p> 
 
 
 
