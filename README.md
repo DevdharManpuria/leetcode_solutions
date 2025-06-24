@@ -59,7 +59,6 @@
 
 ## 📁 Folder Structure
 
-```text
 leetcode-solutions/
 ├── python/
 │   ├── 0001-two-sum.py
@@ -78,7 +77,11 @@ leetcode-solutions/
 ├── auto_upload.py           # Daily uploader script
 ├── uploaded.txt             # Tracks uploaded files
 └── README.md                # This file
-⚙️ Getting Started
+
+---
+
+
+## ⚙️ Getting Started
 Clone the repo
 
 bash
@@ -101,7 +104,10 @@ bash
 Copy
 Edit
 python auto_upload.py
-🤖 Automation
+
+---
+
+## 🤖 Automation
 Script: auto_upload.py
 
 Organizes files by extension into language folders
@@ -122,7 +128,10 @@ cron
 Copy
 Edit
 0 9 * * * /usr/bin/python3 /home/user/leetcode_solutions/auto_upload.py
-🔧 Tech Stack
+
+---
+
+## 🔧 Tech Stack
 Languages: Python, Java, C++, Go, JavaScript
 
 Automation: Python scripts + Git
@@ -131,7 +140,9 @@ Hosting: GitHub
 
 Stats: Shields.io, LeetCard, GitHub Readme Streak Stats
 
-🧠 My Motivation
+---
+
+## 🧠 My Motivation
 “Consistency is the key to mastery.”
 
 I built this repo to:
@@ -142,9 +153,14 @@ Track my progress over time
 
 Showcase real code and Git discipline
 
-📫 Connect with Me
+---
+
+## 📫 Connect with Me
 <p align="center"> <a href="https://leetcode.com/DevGamesdtn/">LeetCode</a> • <a href="https://github.com/DevdharManpuria">GitHub</a> • <a href="mailto:manpuriadevdhar95@gmail.com">Email</a> </p>
-📜 License
+
+---
+
+## 📜 License
 This project is licensed under the MIT License.
 
 <p align="center"> Made with ❤️ by Devdhar Manpuria </p> ```
