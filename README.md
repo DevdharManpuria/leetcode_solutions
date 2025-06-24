@@ -57,29 +57,6 @@
 
 ---
 
-## 📁 Folder Structure
-
-leetcode-solutions/
-├── python/
-│   ├── 0001-two-sum.py
-│   ├── 0002-add-two-numbers.py
-│   └── ...
-├── java/
-│   ├── 0001-two-sum.java
-│   ├── 0002-add-two-numbers.java
-│   └── ...
-├── cpp/
-│   ├── 0001-two-sum.cpp
-│   └── ...
-├── go/
-│   ├── 0001-two-sum.go
-│   └── ...
-├── auto_upload.py           # Daily uploader script
-├── uploaded.txt             # Tracks uploaded files
-└── README.md                # This file
-
----
-
 
 ## ⚙️ Getting Started
 Clone the repo
@@ -104,30 +81,6 @@ bash
 Copy
 Edit
 python auto_upload.py
-
----
-
-## 🤖 Automation
-Script: auto_upload.py
-
-Organizes files by extension into language folders
-
-Picks one unuploaded solution daily
-
-Commits & pushes to GitHub
-
-Records uploads in uploaded.txt
-
-Schedule:
-
-Windows: Task Scheduler → Daily trigger → python C:\path\to\auto_upload.py
-
-Linux/macOS: Cron job
-
-cron
-Copy
-Edit
-0 9 * * * /usr/bin/python3 /home/user/leetcode_solutions/auto_upload.py
 
 ---
 
