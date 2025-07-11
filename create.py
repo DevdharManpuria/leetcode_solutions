@@ -24,14 +24,12 @@ def create_files(problem_str):
     folders = {
         "cpp": "cpp",
         "java": "java",
-        "python": "python",
-        "go": "go"
+        "python": "python"
     }
     extensions = {
         "cpp": ".cpp",
         "java": ".java",
-        "python": ".py",
-        "go": ".go"
+        "python": ".py"
     }
 
     # Step 5: Create and collect file paths
