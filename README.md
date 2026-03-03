@@ -139,4 +139,12 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
