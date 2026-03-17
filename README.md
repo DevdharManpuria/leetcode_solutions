@@ -130,6 +130,7 @@ This project is licensed under the MIT License.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -159,6 +160,7 @@ This project is licensed under the MIT License.
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
