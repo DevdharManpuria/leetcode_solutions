@@ -136,6 +136,7 @@ This project is licensed under the MIT License.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ This project is licensed under the MIT License.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -156,6 +158,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
