@@ -231,4 +231,8 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
