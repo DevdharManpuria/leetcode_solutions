@@ -181,6 +181,7 @@ This project is licensed under the MIT License.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Backtracking
@@ -276,6 +277,7 @@ This project is licensed under the MIT License.
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0225-implement-stack-using-queues](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
