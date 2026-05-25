@@ -139,6 +139,7 @@ This project is licensed under the MIT License.
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -252,6 +253,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
@@ -315,6 +317,7 @@ This project is licensed under the MIT License.
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
