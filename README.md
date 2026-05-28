@@ -134,6 +134,7 @@ This project is licensed under the MIT License.
 | [0015-3sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0039-combination-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
@@ -238,6 +239,7 @@ This project is licensed under the MIT License.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0033-search-in-rotated-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
