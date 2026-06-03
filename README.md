@@ -170,6 +170,7 @@ This project is licensed under the MIT License.
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ This project is licensed under the MIT License.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +214,7 @@ This project is licensed under the MIT License.
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -258,6 +261,7 @@ This project is licensed under the MIT License.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +346,7 @@ This project is licensed under the MIT License.
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
