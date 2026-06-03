@@ -147,6 +147,7 @@ This project is licensed under the MIT License.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -285,6 +286,7 @@ This project is licensed under the MIT License.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Prefix Sum
@@ -389,6 +391,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -428,6 +431,11 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
