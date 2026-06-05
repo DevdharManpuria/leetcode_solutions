@@ -198,6 +198,7 @@ This project is licensed under the MIT License.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -383,6 +384,7 @@ This project is licensed under the MIT License.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
