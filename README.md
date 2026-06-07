@@ -202,6 +202,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
@@ -399,6 +400,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
+| [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
