@@ -204,6 +204,7 @@ This project is licensed under the MIT License.
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 ## Two Pointers
@@ -343,6 +344,7 @@ This project is licensed under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -401,6 +403,7 @@ This project is licensed under the MIT License.
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
@@ -462,4 +465,8 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
