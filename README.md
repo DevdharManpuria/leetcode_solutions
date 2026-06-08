@@ -200,6 +200,7 @@ This project is licensed under the MIT License.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
@@ -293,6 +294,7 @@ This project is licensed under the MIT License.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0070-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -405,6 +407,7 @@ This project is licensed under the MIT License.
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
