@@ -205,6 +205,7 @@ This project is licensed under the MIT License.
 | [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -216,6 +217,7 @@ This project is licensed under the MIT License.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0061-rotate-list/) | Medium |
+| [0141-linked-list-cycle](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -345,6 +347,7 @@ This project is licensed under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
+| [0141-linked-list-cycle](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
