@@ -252,6 +252,7 @@ This project is licensed under the MIT License.
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
@@ -260,6 +261,7 @@ This project is licensed under the MIT License.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
@@ -268,6 +270,7 @@ This project is licensed under the MIT License.
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
@@ -407,6 +410,7 @@ This project is licensed under the MIT License.
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Memoization
