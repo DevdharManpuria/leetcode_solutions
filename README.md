@@ -259,6 +259,7 @@ This project is licensed under the MIT License.
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -271,6 +272,7 @@ This project is licensed under the MIT License.
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -284,6 +286,7 @@ This project is licensed under the MIT License.
 | [0110-balanced-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0110-balanced-binary-tree/) | Easy |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -516,4 +519,8 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
