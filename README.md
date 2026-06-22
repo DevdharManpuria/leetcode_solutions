@@ -149,6 +149,7 @@ This project is licensed under the MIT License.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
@@ -371,6 +372,7 @@ This project is licensed under the MIT License.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
