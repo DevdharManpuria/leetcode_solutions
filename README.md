@@ -238,6 +238,7 @@ This project is licensed under the MIT License.
 | [0014-longest-common-prefix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -264,6 +265,7 @@ This project is licensed under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -278,6 +280,7 @@ This project is licensed under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -294,6 +297,7 @@ This project is licensed under the MIT License.
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
@@ -440,6 +444,7 @@ This project is licensed under the MIT License.
 | [0102-binary-tree-level-order-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Memoization
@@ -462,6 +467,7 @@ This project is licensed under the MIT License.
 | [0155-min-stack](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0232-implement-queue-using-stacks/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
