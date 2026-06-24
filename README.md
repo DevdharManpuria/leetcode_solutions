@@ -152,6 +152,7 @@ This project is licensed under the MIT License.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
@@ -196,6 +197,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
+| [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -288,6 +290,7 @@ This project is licensed under the MIT License.
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
@@ -327,6 +330,7 @@ This project is licensed under the MIT License.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -462,6 +466,7 @@ This project is licensed under the MIT License.
 | [0102-binary-tree-level-order-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
+| [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
