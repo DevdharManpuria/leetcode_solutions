@@ -148,6 +148,7 @@ This project is licensed under the MIT License.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
@@ -330,6 +331,7 @@ This project is licensed under the MIT License.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -413,6 +415,7 @@ This project is licensed under the MIT License.
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
