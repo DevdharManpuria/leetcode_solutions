@@ -224,6 +224,7 @@ This project is licensed under the MIT License.
 | [0146-lru-cache](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0146-lru-cache/) | Medium |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +240,7 @@ This project is licensed under the MIT License.
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
