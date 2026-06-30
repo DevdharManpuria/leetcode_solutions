@@ -261,6 +261,7 @@ This project is licensed under the MIT License.
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -436,6 +437,7 @@ This project is licensed under the MIT License.
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -569,6 +571,7 @@ This project is licensed under the MIT License.
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
