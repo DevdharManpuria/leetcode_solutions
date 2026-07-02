@@ -233,6 +233,7 @@ This project is licensed under the MIT License.
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -254,6 +255,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
@@ -393,6 +395,7 @@ This project is licensed under the MIT License.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
