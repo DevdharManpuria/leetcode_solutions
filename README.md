@@ -181,6 +181,7 @@ This project is licensed under the MIT License.
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
@@ -211,6 +212,7 @@ This project is licensed under the MIT License.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3643-flip-square-submatrix-vertically/) | Easy |
 ## Linked List
@@ -347,6 +349,7 @@ This project is licensed under the MIT License.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Minimum Spanning Tree
 | Problem Name | Difficulty |
@@ -375,6 +378,7 @@ This project is licensed under the MIT License.
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -490,6 +494,7 @@ This project is licensed under the MIT License.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -596,4 +601,8 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
 <!---LeetCode Topics End-->
