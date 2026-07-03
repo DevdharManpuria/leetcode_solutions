@@ -17,29 +17,21 @@ public:
         }
         
         auto check = [&](int mid) -> bool{
-            vector<long long> dis(n,LLONG_MAX);
-            priority_queue<pair<long long,int>,vector<pair<long long,int>>,greater<>> q;
-            dis[0] = 0;
-            q.push({0,0});
-            while(!q.empty()){
-                auto[d,u] = q.top();
-                q.pop();
-                if(d>k)
-                    return false;
-                if( u == n-1 ) 
-                    return true;
-                if(d > dis[u]) 
-                    continue;
+            vector<long long> memo(n,-1);
+            auto dfs = [&](this auto&& dfs, int u) -> long long {
+                if(u == n-1) 
+                    return 0;
+                if(memo[u] != -1)
+                    return memo[u];
+                long long res = LLONG_MAX/2;
                 for(auto& [v,w] : g[u]){
-                    if(w < mid)
-                        continue;
-                    if(dis[v] > dis[u]+w){
-                        dis[v] = dis[u] + w;
-                        q.push({dis[v], v});
-                    }
+                    if(w>=mid)
+                        res=min(res,dfs(v)+w);
                 }
-            }
-            return false;
+                memo[u] = res;
+                return memo[u];
+            };
+            return dfs(0)<=k;
         };
         if(!check(l)) 
             return -1;
