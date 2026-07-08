@@ -10,7 +10,10 @@ public:
                 nums[val - 1] = -nums[val - 1];   
         }
         for (int i = 0; i < nums.size(); i++) 
-            if (nums[i] > 0) m = i + 1; 
+            if (nums[i] > 0){
+                m = i + 1;
+                break;
+            } 
         return {r, m};
     }
 };
