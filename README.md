@@ -160,6 +160,7 @@ This project is licensed under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
@@ -441,6 +442,7 @@ This project is licensed under the MIT License.
 | [0078-subsets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
+| [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -458,6 +460,7 @@ This project is licensed under the MIT License.
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
@@ -478,6 +481,7 @@ This project is licensed under the MIT License.
 | [0015-3sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
