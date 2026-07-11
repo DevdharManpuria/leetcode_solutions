@@ -459,6 +459,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0078-subsets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -606,6 +607,7 @@ This project is licensed under the MIT License.
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0191-number-of-1-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
