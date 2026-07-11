@@ -394,6 +394,7 @@ This project is licensed under the MIT License.
 | [0070-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
+| [0231-power-of-two](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -462,6 +463,7 @@ This project is licensed under the MIT License.
 | [0136-single-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
@@ -567,6 +569,7 @@ This project is licensed under the MIT License.
 | [0021-merge-two-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0025-reverse-nodes-in-k-group/) | Hard |
 | [0143-reorder-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
+| [0231-power-of-two](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0231-power-of-two/) | Easy |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
