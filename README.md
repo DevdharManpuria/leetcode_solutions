@@ -161,6 +161,7 @@ This project is licensed under the MIT License.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0636-exclusive-time-of-functions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -204,6 +205,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
@@ -407,6 +409,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0239-sliding-window-maximum/) | Hard |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -475,6 +478,7 @@ This project is licensed under the MIT License.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
@@ -490,6 +494,7 @@ This project is licensed under the MIT License.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 ## Sorting
@@ -498,6 +503,7 @@ This project is licensed under the MIT License.
 | [0015-3sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
+| [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
