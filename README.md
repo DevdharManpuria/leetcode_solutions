@@ -288,6 +288,7 @@ This project is licensed under the MIT License.
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -469,6 +470,7 @@ This project is licensed under the MIT License.
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
