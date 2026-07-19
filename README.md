@@ -216,6 +216,7 @@ This project is licensed under the MIT License.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -293,6 +294,7 @@ This project is licensed under the MIT License.
 | [0647-palindromic-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -572,6 +574,7 @@ This project is licensed under the MIT License.
 | [0636-exclusive-time-of-functions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -581,6 +584,7 @@ This project is licensed under the MIT License.
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
