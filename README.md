@@ -152,6 +152,7 @@ This project is licensed under the MIT License.
 | [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0152-maximum-product-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
@@ -467,6 +468,7 @@ This project is licensed under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
