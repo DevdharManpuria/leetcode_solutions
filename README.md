@@ -176,6 +176,7 @@ This project is licensed under the MIT License.
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1301-number-of-paths-with-max-score](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1331-rank-transform-of-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -231,6 +232,7 @@ This project is licensed under the MIT License.
 | [0074-search-a-2d-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
+| [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -638,6 +640,7 @@ This project is licensed under the MIT License.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 | [1929-concatenation-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
