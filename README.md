@@ -304,6 +304,7 @@ This project is licensed under the MIT License.
 | [1768-merge-strings-alternately](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1768-merge-strings-alternately/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3612-process-string-with-special-operations-i/) | Medium |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Backtracking
@@ -490,6 +491,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [1291-sequential-digits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1291-sequential-digits/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
+| [3499-maximize-active-section-with-trade-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3546-equal-sum-grid-partition-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
