@@ -437,6 +437,7 @@ This project is licensed under the MIT License.
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3514-number-of-unique-xor-triplets-ii/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -575,6 +576,7 @@ This project is licensed under the MIT License.
 | [1331-rank-transform-of-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Stack
