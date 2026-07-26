@@ -167,6 +167,7 @@ This project is licensed under the MIT License.
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0636-exclusive-time-of-functions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0636-exclusive-time-of-functions/) | Medium |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
@@ -428,6 +429,7 @@ This project is licensed under the MIT License.
 | [0268-missing-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0371-sum-of-two-integers/) | Medium |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
@@ -569,6 +571,7 @@ This project is licensed under the MIT License.
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0268-missing-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
