@@ -1,18 +1,7 @@
 class Solution:
     def smallestPalindrome(self, s: str) -> str:
-        freq = [0] * 26
-        for ch in s:
-            freq[ord(ch) - ord('a')] += 1
-        l = ""
-        m = ""
-        for i in range(26):
-            if freq[i] == 0:
-                continue  
-            ch = chr(i + ord('a'))
-            if freq[i] % 2 != 0:
-                m = ch
-            l += ch * (freq[i] // 2)
-            
-        r = l[::-1]
-        
-        return l + m + r
+        freq = Counter(s)        
+        chars = sorted(freq.keys())
+        m = next((c for c, count in freq.items() if count % 2), "")
+        l = "".join(c * (freq[c] // 2) for c in chars)
+        return l + m + l[::-1]
