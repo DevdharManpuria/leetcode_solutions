@@ -1,17 +1,10 @@
 class Solution {
 public:
     int smallestNumber(int n, int t) {
-        int i=n;
-        while(!isdiv(i,t))
-            i++;
-        return i;
-    }
-    bool isdiv(int a,int b){
-        int prdt=1;
-        while (a){
-            prdt*=(a%10);
-            a/=10;
+        for (; ; n++) {
+            int p = 1, k = n;
+            for (; k > 0; k /= 10) p *= (k % 10);
+            if (p % t == 0) return n;
         }
-        return prdt%b==0 ? true : false;
     }
 };
