@@ -208,6 +208,7 @@ This project is licensed under the MIT License.
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -599,6 +600,7 @@ This project is licensed under the MIT License.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3020-find-the-maximum-number-of-elements-in-subset/) | Medium |
@@ -774,6 +776,7 @@ This project is licensed under the MIT License.
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
