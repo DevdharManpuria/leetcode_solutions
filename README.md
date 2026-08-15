@@ -168,6 +168,7 @@ This project is licensed under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -539,6 +540,7 @@ This project is licensed under the MIT License.
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0338-counting-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0338-counting-bits/) | Easy |
+| [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0509-fibonacci-number/) | Easy |
 | [0516-longest-palindromic-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
@@ -882,4 +884,12 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0300-longest-increasing-subsequence/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 <!---LeetCode Topics End-->
