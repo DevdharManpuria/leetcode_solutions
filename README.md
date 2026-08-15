@@ -147,6 +147,7 @@ This project is licensed under the MIT License.
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
+| [0090-subsets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -349,6 +350,7 @@ This project is licensed under the MIT License.
 | [0040-combination-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -562,6 +564,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0136-single-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0191-number-of-1-bits/) | Easy |
