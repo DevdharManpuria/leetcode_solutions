@@ -589,6 +589,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0182-duplicate-emails](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
+| [0584-find-customer-referee](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
