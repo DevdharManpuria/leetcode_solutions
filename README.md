@@ -208,6 +208,7 @@ This project is licensed under the MIT License.
 | [1929-concatenation-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -244,6 +245,7 @@ This project is licensed under the MIT License.
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -475,6 +477,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2235-add-two-integers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2235-add-two-integers/) | Easy |
 | [2396-strictly-palindromic-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2396-strictly-palindromic-number/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -640,6 +643,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -861,6 +865,7 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -871,16 +876,19 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
