@@ -2,26 +2,31 @@ class Solution {
 public:
     int stoneGameV(vector<int>& stoneValue) {
         int n = stoneValue.size();
-        vector<vector<int>> dp(n,vector<int>(n,0));
-        vector<int> prefix(n+1);
-        prefix[0] = 0;
-        for(int i=0;i<n;i++){
-            prefix[i+1] = prefix[i]+stoneValue[i];
+        vector<int> pref(n + 1, 0);        
+        for(int i = 0; i < n; i++) {
+            pref[i + 1] = pref[i] + stoneValue[i];
         }
-        int lsum=0;
-        int rsum =0;
-        for(int i=2;i<=n;i++){
-            for(int j=0;j<=n-i;j++){
-                int end = i+j-1;
-                for(int k = j;k<=end-1;k++){
-                    lsum = prefix[k+1] - prefix[j];
-                    rsum = prefix[end+1] - prefix[k+1];
-                    if(lsum<rsum) dp[j][end]=max(dp[j][end],lsum+dp[j][k]);
-                    else if(lsum>rsum) dp[j][end] = max(dp[j][end],rsum+dp[k+1][end]);
-                    else dp[j][end] = max(dp[j][end],lsum+max(dp[j][k],dp[k+1][end]));
-                }
+        vector<vector<int>> dp(n, vector<int>(n, 0));
+        vector<vector<int>> maxL(n, vector<int>(n, 0));
+        vector<vector<int>> maxR(n, vector<int>(n, 0));
+        for(int i = 0; i < n; i++) {
+            maxL[i][i] = stoneValue[i];
+            maxR[i][i] = stoneValue[i];
+        }
+        for(int i = n - 1; i >= 0; i--) {
+            int mid = i;   
+            for(int j = i + 1; j < n; j++) {
+                int totalSum = pref[j + 1] - pref[i];
+                while (mid < j && (pref[mid + 1] - pref[i]) * 2 < totalSum) mid++;
+                int leftSum = pref[mid + 1] - pref[i];
+                bool isEqual = (leftSum * 2 == totalSum);
+                int maxLeftChoices = isEqual ? mid : mid - 1;
+                if (maxLeftChoices >= i) dp[i][j] = max(dp[i][j], maxL[i][maxLeftChoices]);
+                if (mid < j) dp[i][j] = max(dp[i][j], maxR[mid + 1][j]);
+                maxL[i][j] = max(maxL[i][j - 1], dp[i][j] + totalSum);
+                maxR[i][j] = max(maxR[i + 1][j], dp[i][j] + totalSum);
             }
         }
-        return dp[0][n-1];
+        return dp[0][n - 1];
     }
 };
