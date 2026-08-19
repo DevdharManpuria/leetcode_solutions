@@ -603,6 +603,7 @@ This project is licensed under the MIT License.
 | [0577-employee-bonus](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1280-students-and-examinations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1280-students-and-examinations/) | Easy |
