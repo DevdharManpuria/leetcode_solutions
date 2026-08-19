@@ -142,6 +142,7 @@ This project is licensed under the MIT License.
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0074-search-a-2d-matrix/) | Medium |
@@ -327,6 +328,7 @@ This project is licensed under the MIT License.
 | [0014-longest-common-prefix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
@@ -632,6 +634,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0049-group-anagrams](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
@@ -682,6 +685,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0015-3sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
