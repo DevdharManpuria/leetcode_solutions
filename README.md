@@ -173,6 +173,7 @@ This project is licensed under the MIT License.
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
@@ -247,6 +248,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -311,6 +313,7 @@ This project is licensed under the MIT License.
 | [0143-reorder-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
 | [0189-rotate-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0189-rotate-array/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -695,6 +698,7 @@ This project is licensed under the MIT License.
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
@@ -954,4 +958,8 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
