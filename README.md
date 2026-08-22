@@ -627,6 +627,7 @@ This project is licensed under the MIT License.
 | [0620-not-boring-movies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1075-project-employees-i/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1148-article-views-i/) | Easy |
 | [1193-monthly-transactions-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1193-monthly-transactions-i/) | Medium |
 | [1211-queries-quality-and-percentage](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1211-queries-quality-and-percentage/) | Easy |
