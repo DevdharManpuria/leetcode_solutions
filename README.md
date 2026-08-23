@@ -621,6 +621,7 @@ This project is licensed under the MIT License.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0175-combine-two-tables/) | Easy |
 | [0182-duplicate-emails](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0182-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0197-rising-temperature/) | Easy |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0570-managers-with-at-least-5-direct-reports/) | Medium |
