@@ -210,6 +210,7 @@ This project is licensed under the MIT License.
 | [1732-find-the-highest-altitude](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -499,6 +500,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
@@ -540,6 +542,7 @@ This project is licensed under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
@@ -584,6 +587,7 @@ This project is licensed under the MIT License.
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
@@ -921,6 +925,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Brainteaser
@@ -933,6 +938,7 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
@@ -940,6 +946,7 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [2029-stone-game-ix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2029-stone-game-ix/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
