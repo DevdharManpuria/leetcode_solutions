@@ -660,6 +660,7 @@ This project is licensed under the MIT License.
 | [1661-average-time-of-process-per-machine](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1729-find-followers-count/) | Easy |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1731-the-number-of-employees-which-report-to-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1757-recyclable-and-low-fat-products/) | Easy |
 | [1934-confirmation-rate](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
