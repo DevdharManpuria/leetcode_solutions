@@ -174,6 +174,7 @@ This project is licensed under the MIT License.
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0416-partition-equal-subset-sum/) | Medium |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0485-max-consecutive-ones/) | Easy |
 | [0486-predict-the-winner](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0486-predict-the-winner/) | Medium |
@@ -253,6 +254,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
@@ -729,6 +731,7 @@ This project is licensed under the MIT License.
 | [0075-sort-colors](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0075-sort-colors/) | Medium |
 | [0242-valid-anagram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0268-missing-number/) | Easy |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0455-assign-cookies/) | Easy |
 | [0621-task-scheduler](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0621-task-scheduler/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0628-maximum-product-of-three-numbers/) | Easy |
