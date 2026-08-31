@@ -310,6 +310,7 @@ This project is licensed under the MIT License.
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0876-middle-of-the-linked-list/) | Easy |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
