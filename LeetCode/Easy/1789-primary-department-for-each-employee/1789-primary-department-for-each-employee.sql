@@ -1,11 +1,10 @@
-# Write your MySQL query statement below
-select employee_id,department_id
-from (
-    select *,
-    count(employee_id) over(partition by employee_id) as employeecount
-    from
-    Employee
-) employeepartition
-where 
-employeecount = 1
-or primary_flag = 'Y';
+# Write your MySQL query statement below is faster than union
+SELECT employee_id, department_id
+FROM Employee
+WHERE primary_flag = 'Y' 
+   OR employee_id IN (
+      SELECT employee_id
+      FROM Employee
+      GROUP BY employee_id
+      HAVING COUNT(employee_id) = 1
+   );
