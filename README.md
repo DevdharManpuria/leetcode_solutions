@@ -354,6 +354,7 @@ This project is licensed under the MIT License.
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0097-interleaving-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0139-word-break](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
@@ -583,6 +584,7 @@ This project is licensed under the MIT License.
 | [0070-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0097-interleaving-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0097-interleaving-string/) | Medium |
+| [0115-distinct-subsequences](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0115-distinct-subsequences/) | Hard |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0124-binary-tree-maximum-path-sum/) | Hard |
