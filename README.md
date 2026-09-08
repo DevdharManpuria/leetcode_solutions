@@ -544,6 +544,7 @@ This project is licensed under the MIT License.
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3783-mirror-distance-of-an-integer/) | Easy |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3870-count-commas-in-range](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Heap (Priority Queue)
