@@ -236,6 +236,7 @@ This project is licensed under the MIT License.
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3513-number-of-unique-xor-triplets-i/) | Medium |
@@ -472,6 +473,7 @@ This project is licensed under the MIT License.
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
@@ -620,6 +622,7 @@ This project is licensed under the MIT License.
 | [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3336-find-the-number-of-subsequences-with-equal-gcd/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3620-network-recovery-pathways](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3620-network-recovery-pathways/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3699-number-of-zigzag-arrays-i/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -766,6 +769,7 @@ This project is licensed under the MIT License.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/3536-maximum-product-of-two-digits/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
