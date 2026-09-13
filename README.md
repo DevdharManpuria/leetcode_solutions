@@ -189,6 +189,7 @@ This project is licensed under the MIT License.
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
@@ -288,6 +289,7 @@ This project is licensed under the MIT License.
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0835-image-overlap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
 | [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
