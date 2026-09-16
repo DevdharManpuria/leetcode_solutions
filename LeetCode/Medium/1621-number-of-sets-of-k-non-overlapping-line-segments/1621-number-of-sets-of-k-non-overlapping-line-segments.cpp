@@ -1,21 +1,16 @@
-const int MOD = 1000000007;
 class Solution {
 public:
     int numberOfSets(int n, int k) {
-        vector<int> dp(n),prefix(n+1);
-        for(int j = 0;j<n;j++){
-            dp[j] = 1;
-            prefix[j+1] = (prefix[j]+dp[j]) % MOD;
-        }
-        for(int i=1;i<=k;i++){
-            dp[0] = 0;
-            for(int j = 1;j<n;j++){
-                dp[j] = (dp[j-1] + prefix[j]) %MOD;
-            }
-            for(int j = 0;j<n;j++){
-                prefix[j+1] = (prefix[j]+dp[j])%MOD;
+        int N = n + k - 1;
+        int K = 2 * k;        
+        if (N < K) return 0;
+        vector<vector<int>> dp(N + 1, vector<int>(K + 1, 0));
+        for (int i = 0; i <= N; i++) {
+            dp[i][0] = 1;
+            for (int j = 1; j <= min(i, K); j++) {
+                dp[i][j] = (dp[i - 1][j - 1] + dp[i - 1][j]) % 1000000007;
             }
         }
-        return dp[n-1];
+        return dp[N][K];
     }
 };
