@@ -531,6 +531,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1927-sum-game/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -576,6 +577,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1732-find-the-highest-altitude/) | Easy |
 | [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
@@ -625,6 +627,7 @@ This project is licensed under the MIT License.
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1872-stone-game-viii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1872-stone-game-viii/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -943,6 +946,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3312-sorted-gcd-pair-queries/) | Hard |
 ## Segment Tree
