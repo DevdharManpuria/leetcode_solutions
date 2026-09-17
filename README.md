@@ -194,6 +194,7 @@ This project is licensed under the MIT License.
 | [0875-koko-eating-bananas](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0875-koko-eating-bananas/) | Medium |
 | [0877-stone-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [0994-rotting-oranges](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
@@ -292,6 +293,7 @@ This project is licensed under the MIT License.
 | [0304-range-sum-query-2d-immutable](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0304-range-sum-query-2d-immutable/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0835-image-overlap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0835-image-overlap/) | Medium |
+| [0994-rotting-oranges](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1260-shift-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1260-shift-2d-grid/) | Easy |
 | [1301-number-of-paths-with-max-score](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1301-number-of-paths-with-max-score/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -830,6 +832,7 @@ This project is licensed under the MIT License.
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
+| [0994-rotting-oranges](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
