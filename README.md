@@ -534,6 +534,7 @@ This project is licensed under the MIT License.
 | [0877-stone-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1140-stone-game-ii/) | Medium |
 | [1344-angle-between-hands-of-a-clock](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1563-stone-game-v/) | Hard |
@@ -1054,4 +1055,5 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1401-circle-and-rectangle-overlapping](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
 <!---LeetCode Topics End-->
