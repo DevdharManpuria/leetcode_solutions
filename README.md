@@ -524,6 +524,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0048-rotate-image](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0070-climbing-stairs/) | Easy |
