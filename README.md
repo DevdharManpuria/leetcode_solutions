@@ -443,6 +443,7 @@ This project is licensed under the MIT License.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0572-subtree-of-another-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0572-subtree-of-another-tree/) | Easy |
+| [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -496,6 +497,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
+| [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
@@ -507,6 +509,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0133-clone-graph](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0133-clone-graph/) | Medium |
+| [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2685-count-the-number-of-complete-components/) | Medium |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3286-find-a-safe-walk-through-a-grid/) | Medium |
@@ -836,6 +839,7 @@ This project is licensed under the MIT License.
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
+| [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
