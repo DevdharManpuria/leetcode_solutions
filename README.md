@@ -376,6 +376,7 @@ This project is licensed under the MIT License.
 | [0940-distinct-subsequences-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -410,6 +411,7 @@ This project is licensed under the MIT License.
 | [0079-word-search](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -744,6 +746,7 @@ This project is licensed under the MIT License.
 | [0705-design-hashset](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0706-design-hashmap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1189-maximum-number-of-balloons/) | Easy |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
@@ -793,6 +796,7 @@ This project is licensed under the MIT License.
 | [0645-set-mismatch](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0645-set-mismatch/) | Easy |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [0912-sort-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0912-sort-an-array/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1288-remove-covered-intervals](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -823,6 +827,7 @@ This project is licensed under the MIT License.
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1441-build-an-array-with-stack-operations](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1441-build-an-array-with-stack-operations/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -847,6 +852,7 @@ This project is licensed under the MIT License.
 | [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
 | [0994-rotting-oranges](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0994-rotting-oranges/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1559-detect-cycles-in-2d-grid/) | Medium |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2492-minimum-score-of-a-path-between-two-cities/) | Medium |
