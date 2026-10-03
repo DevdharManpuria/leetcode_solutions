@@ -361,6 +361,7 @@ This project is licensed under the MIT License.
 | [0014-longest-common-prefix](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0076-minimum-window-substring/) | Hard |
@@ -617,6 +618,7 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0055-jump-game/) | Medium |
@@ -821,6 +823,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
+| [0032-longest-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0042-trapping-rain-water](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0143-reorder-list/) | Medium |
@@ -1064,6 +1067,7 @@ This project is licensed under the MIT License.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0032-longest-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
