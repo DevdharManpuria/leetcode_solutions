@@ -378,6 +378,7 @@ This project is licensed under the MIT License.
 | [0647-palindromic-substrings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0680-valid-palindrome-ii/) | Easy |
+| [0856-score-of-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0940-distinct-subsequences-ii/) | Hard |
 | [0981-time-based-key-value-store](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0981-time-based-key-value-store/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -839,6 +840,7 @@ This project is licensed under the MIT License.
 | [0678-valid-parenthesis-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
 | [0853-car-fleet](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0853-car-fleet/) | Medium |
+| [0856-score-of-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -1073,6 +1075,7 @@ This project is licensed under the MIT License.
 | [0022-generate-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
