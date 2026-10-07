@@ -373,6 +373,7 @@ This project is licensed under the MIT License.
 | [0139-word-break](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0424-longest-repeating-character-replacement/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0567-permutation-in-string/) | Medium |
@@ -422,6 +423,7 @@ This project is licensed under the MIT License.
 | [0079-word-search](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0090-subsets-ii/) | Medium |
 | [0113-path-sum-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0113-path-sum-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/1096-brace-expansion-ii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -869,6 +871,7 @@ This project is licensed under the MIT License.
 | [0199-binary-tree-right-side-view](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0200-number-of-islands/) | Medium |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0322-coin-change/) | Medium |
 | [0684-redundant-connection](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0684-redundant-connection/) | Medium |
 | [0695-max-area-of-island](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/0695-max-area-of-island/) | Medium |
