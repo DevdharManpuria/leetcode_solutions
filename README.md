@@ -232,6 +232,7 @@ This project is licensed under the MIT License.
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -790,6 +791,7 @@ This project is licensed under the MIT License.
 | [2196-create-binary-tree-from-descriptions](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2615-sum-of-distances](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2615-sum-of-distances/) | Medium |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -1031,6 +1033,7 @@ This project is licensed under the MIT License.
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Hard/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Shortest Path
@@ -1132,4 +1135,8 @@ This project is licensed under the MIT License.
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Medium/1401-circle-and-rectangle-overlapping/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/DevdharManpuria/leetcode_solutions/tree/main/LeetCode/Easy/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
